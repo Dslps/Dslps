@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Dslps&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20Linux%20%26%20Networks&descAlignY=60&descSize=20" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Dslps&fontSize=70&fontColor=ffffff&fontAlignY=40&desc=Full-Stack%20Developer%20and%20Linux%20Networking&descAlignY=62&descSize=20" width="100%" alt="header" />
 
 <a href="https://github.com/Dslps">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Building+backends+with+Laravel+%26+Node.js;Crafting+interfaces+with+React;Living+in+the+Linux+terminal;Automating+everything+with+n8n" alt="Typing SVG" />
@@ -50,8 +50,7 @@ I build web apps end to end, and I'm comfortable on the infrastructure side too:
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Dslps&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dslps&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top languages" />
+<img src="https://streak-stats.demolab.com?user=Dslps&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub streak" />
 
 </div>
 
